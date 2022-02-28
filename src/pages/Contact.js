@@ -56,6 +56,11 @@ function Contact() {
                     <div className="col-lg-10 mx-auto text-white mb-4">
                     <h1 className="text-center">{capitalizeFirstLetter(currentPage.name)}</h1>
                         <hr className="light my-4" />
+                        <h4>
+                            Send me a messege for any project ideas, or send me an <a href="mailto:edgar.fernand@outlook.com"> email</a> at: <br></br>
+                            <a href="mailto:edgar.fernand@outlook.com"> edgar.fernand@outlook.com</a>
+                        </h4>
+                        <hr></hr>
                         <form id="contact-form" onSubmit={handleSubmit} className="mb-5">
                             <div>
                                 <label htmlFor="name">Name:</label>
@@ -99,11 +104,6 @@ function Contact() {
                             <button type="submit" className="btn btn-primary btn-xl js-scroll-trigger">Submit</button>
                             </div>
                         </form>
-                    
-                        <h4>
-                            Sylvia Prabudy <br />
-                            Or simply send me an email at:  <a href="mailto:edgar.fernand@outlook.com"> edgar.fernand@outlook.com</a>
-                        </h4>
                     </div>
                 </div>
             </div>

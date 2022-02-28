@@ -4,7 +4,6 @@ import About from "./About"
 import Portfolio from "./Portfolio"
 import Contact from "./Contact"
 import Resume from "./Resume"
-import Home from "./Home"
 
 
 function Introduction({ currentPage }) {
@@ -20,7 +19,7 @@ function Introduction({ currentPage }) {
       case "resume":
         return <Resume />
       default:
-        return <Home />
+        return <About />
     }
   }
 

@@ -17,12 +17,11 @@ function About() {
                         <h1>{capitalizeFirstLetter(currentPage.name)}</h1>
                         <hr />
                         <p className="text-faded mb-5">
-                            ##
-                        </p>
-                       
-                        <p className="text-faded mb-5">
-                            ##
-                        </p>
+                            I’m currently attending a Coding Bootcamp program through <a href="https://bootcamp.extension.ucsd.edu/" target="_blank">Coding Bootcamp program at USCD Extension</a>.<hr></hr>
+                            Right now, I've been working on trying to understand the material. <br></br>
+                            Even though I am still in the bootcamp, I am eager to learn more. <br></br>
+                            Contact me for any project ideas so that I can grow my skills!
+                        </p>          
                     </div>
                 </div>
             </div>

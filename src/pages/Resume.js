@@ -19,17 +19,15 @@ function Resume() {
                         <h3>Front-end Proficiencies</h3>
                         <ul>
                             <li>HTML</li>
+                            <li>CSS</li>
+                            <li>React</li>
                         </ul>
                         <h3>Back-end Proficiencies</h3>
                         <ul>
-                            <li>##</li>
-                        </ul>
-                        <h3>Additional Skills</h3>
-                        <ul>
-                            <li>##</li>
+                            <li></li>
                         </ul>
                         <p className="text-center">
-                            Download my <a href={Pdf} className="text-faded white-link" download>resume</a>
+                            <a href={Pdf} className="text-faded white-link" download>Download my resume</a>
                         </p>
                     </div>
                 </div>
