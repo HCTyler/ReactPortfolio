@@ -1,5 +1,7 @@
 # React Portfolio
 
+[Github Repo](https://github.com/HCTyler/ReactPortfolio)
+[Deployed Application](https://hctyler.github.io/ReactPortfolio/)
 
 ## Description
 
@@ -22,6 +24,7 @@ To install necessary dependencies for this project, run the following command:
 ## Usage
 
 This website contains an about me, contact, portfolio and resume components.
+![Screenshot of portfolio](./src/assets/projects/Capture.JPG)
 
 
 ## Questions
