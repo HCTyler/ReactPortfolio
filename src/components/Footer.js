@@ -5,15 +5,15 @@ function Footer() {
     const icons = [
         {
             name: "fab fa-github",
-            link: ""
+            link: "https://github.com/HCTyler"
         },
         {
             name: "fab fa-linkedin",
-            link: ""
+            link: "https://www.linkedin.com/in/edgarvf/"
         },
         {
             name: "fab fa-stack-overflow",
-            link: ""
+            link: "https://stackoverflow.com/users/16498935/hctyler"
         }
     ]
 

@@ -16,18 +16,14 @@ function Resume() {
                     <div className="col-lg-10 mx-auto text-white mb-4">
                         <h1 className="text-center">{capitalizeFirstLetter(currentPage.name)}</h1>
                         <hr className="light my-4" />
-                        <h3>Front-end Proficiencies</h3>
+                        <h3>Language Proficiencies</h3>
                         <ul>
                             <li>HTML</li>
                             <li>CSS</li>
                             <li>React</li>
                         </ul>
-                        <h3>Back-end Proficiencies</h3>
-                        <ul>
-                            <li></li>
-                        </ul>
                         <p className="text-center">
-                            <a href={Pdf} className="text-faded white-link" download>Download my resume</a>
+                            <a href={Pdf} target="_blank" className="text-faded white-link" download>Download my resume</a>
                         </p>
                     </div>
                 </div>

@@ -12,10 +12,23 @@ function Portfolio() {
     const [projects] = useState([
         {
             name: "codingQuiz",
-            description: "HTML CSS",
-            link: "https://hctyler.github.io/Portfolio/",
-            repo: "https://github.com/HCTyler/Portfolio"
-        }
+            description: "A timed quiz program using javascript",
+            link: "https://hctyler.github.io/Code-Quiz/",
+            repo: "https://github.com/HCTyler/Code-Quiz"
+        },
+        {
+            name: "gitCooking",
+            description: "A group project using Edamam and Cocktail DB APIs",
+            link: "https://nmbeilke.github.io/Git-Cooking/",
+            repo: "https://github.com/nmbeilke/Git-Cooking"
+        },
+        {
+            name: "shadeMarketPlace",
+            description: "A group project with a complete front-end,backend, and database",
+            link: "https://e-commerce-store-w-stripe-2022.herokuapp.com/",
+            repo: "https://github.com/DavisRansom/E-Commerce-Marketplace"
+        },
+
     ])
 
     return (
