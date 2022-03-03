@@ -1,16 +1,23 @@
 {
-  "files": {
-    "main.css": "/ReactPortfolio/static/css/main.073c9b0a.css",
-    "main.js": "/ReactPortfolio/static/js/main.a795de03.js",
-    "static/js/787.e29dc422.chunk.js": "/ReactPortfolio/static/js/787.e29dc422.chunk.js",
-    "static/media/logo.svg": "/ReactPortfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/ReactPortfolio/index.html",
-    "main.073c9b0a.css.map": "/ReactPortfolio/static/css/main.073c9b0a.css.map",
-    "main.a795de03.js.map": "/ReactPortfolio/static/js/main.a795de03.js.map",
-    "787.e29dc422.chunk.js.map": "/ReactPortfolio/static/js/787.e29dc422.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.a795de03.js"
-  ]
+  "main.css": "/ReactPortfolio/static/css/main.d3814b81.chunk.css",
+  "main.js": "/ReactPortfolio/static/js/main.3449e84b.chunk.js",
+  "main.js.map": "/ReactPortfolio/static/js/main.3449e84b.chunk.js.map",
+  "static/js/1.e6942a10.chunk.js": "/ReactPortfolio/static/js/1.e6942a10.chunk.js",
+  "static/js/1.e6942a10.chunk.js.map": "/ReactPortfolio/static/js/1.e6942a10.chunk.js.map",
+  "runtime~main.js": "/ReactPortfolio/static/js/runtime~main.aa22ff2d.js",
+  "runtime~main.js.map": "/ReactPortfolio/static/js/runtime~main.aa22ff2d.js.map",
+  "static/media/Resume.pdf": "/ReactPortfolio/static/media/Resume.a11a0583.pdf",
+  "static/media/Dobie_big.jpg": "/ReactPortfolio/static/media/Dobie_big.b96233ce.jpg",
+  "static/media/index.css": "/ReactPortfolio/static/media/background.6a4cf485.jpg",
+  "static/media/codingQuiz.png": "/ReactPortfolio/static/media/codingQuiz.243e735a.png",
+  "static/media/gitCooking.png": "/ReactPortfolio/static/media/gitCooking.279cd8b7.png",
+  "static/media/horiseon.png": "/ReactPortfolio/static/media/horiseon.09283494.png",
+  "static/media/passwordGenerator.png": "/ReactPortfolio/static/media/passwordGenerator.b7bfea5d.png",
+  "static/media/portfolio.png": "/ReactPortfolio/static/media/portfolio.409dc5af.png",
+  "static/media/shadeMarketPlace.png": "/ReactPortfolio/static/media/shadeMarketPlace.40d60617.png",
+  "static/media/weatherApplication.png": "/ReactPortfolio/static/media/weatherApplication.2ef6c9f4.png",
+  "static/css/main.d3814b81.chunk.css.map": "/ReactPortfolio/static/css/main.d3814b81.chunk.css.map",
+  "index.html": "/ReactPortfolio/index.html",
+  "precache-manifest.9c0821bf85d10b14cf45dd00098d631a.js": "/ReactPortfolio/precache-manifest.9c0821bf85d10b14cf45dd00098d631a.js",
+  "service-worker.js": "/ReactPortfolio/service-worker.js"
 }
