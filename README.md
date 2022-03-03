@@ -1,6 +1,7 @@
 # React Portfolio
 
 [Github Repo](https://github.com/HCTyler/ReactPortfolio)
+
 [Deployed Application](https://hctyler.github.io/ReactPortfolio/)
 
 ## Description
