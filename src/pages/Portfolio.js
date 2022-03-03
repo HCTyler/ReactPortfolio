@@ -11,6 +11,12 @@ function Portfolio() {
     const [currentPage] = useState(pages[0])
     const [projects] = useState([
         {
+            name: "portfolio",
+            description: "My first portfolio using HTML and CSS",
+            link: "https://hctyler.github.io/Portfolio/",
+            repo: "https://github.com/HCTyler/Portfolio"
+        },
+        {
             name: "codingQuiz",
             description: "A timed quiz program using javascript",
             link: "https://hctyler.github.io/Code-Quiz/",

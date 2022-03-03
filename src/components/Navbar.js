@@ -1,6 +1,7 @@
 import React, { useEffect } from "react"
 import { capitalizeFirstLetter } from "../utils/helpers"
 
+
 function Navbar(props) {
     const {
         pages = [],
