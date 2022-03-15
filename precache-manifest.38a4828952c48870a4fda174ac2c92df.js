@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "3449e84b99b1d985053f",
+    "revision": "9e5bce38c80d27bfd5bd",
     "url": "/ReactPortfolio/static/css/main.d3814b81.chunk.css"
   },
   {
-    "revision": "3449e84b99b1d985053f",
-    "url": "/ReactPortfolio/static/js/main.3449e84b.chunk.js"
+    "revision": "9e5bce38c80d27bfd5bd",
+    "url": "/ReactPortfolio/static/js/main.9e5bce38.chunk.js"
   },
   {
     "revision": "e6942a101afa606b1b87",
@@ -26,6 +26,14 @@ self.__precacheManifest = [
   {
     "revision": "6a4cf4853c511fba1f5b33b38e31f7cd",
     "url": "/ReactPortfolio/static/media/background.6a4cf485.jpg"
+  },
+  {
+    "revision": "34dcafd9c015b57a37eaad1c6271edd0",
+    "url": "/ReactPortfolio/static/media/NoteTaker.34dcafd9.png"
+  },
+  {
+    "revision": "ab4ac611b5ceec1faa0193cf3b3c14a4",
+    "url": "/ReactPortfolio/static/media/WebTheBuilder.ab4ac611.png"
   },
   {
     "revision": "243e735a20b695bb439b9ea894276c0e",
@@ -56,7 +64,7 @@ self.__precacheManifest = [
     "url": "/ReactPortfolio/static/media/weatherApplication.2ef6c9f4.png"
   },
   {
-    "revision": "e13998e05a82abe760059a1f48a1a765",
+    "revision": "f5544772a2e554be84dfcd351ca012f6",
     "url": "/ReactPortfolio/index.html"
   }
 ];
