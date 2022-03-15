@@ -17,10 +17,8 @@ function About() {
                         <h1>{capitalizeFirstLetter(currentPage.name)}</h1>
                         <hr />
                         <p className="text-faded mb-5">
-                            I’m currently attending a Coding Bootcamp program through <a href="https://bootcamp.extension.ucsd.edu/" target="_blank">Coding Bootcamp program at USCD Extension</a>.<hr></hr>
-                            Right now, I've been working on trying to understand the material. <br></br>
-                            Even though I am still in the bootcamp, I am eager to learn more. <br></br>
-                            Contact me for any project ideas so that I can grow my skills!
+                            Hello World!<br></br>
+                            I am front-end developer passionate about creating interactive applications and experiences on the web. After completing my coding bootcamp course at UCSD extension, I’ve found that my specialty and passion lies in creating accessible and responsive websites. 
                         </p>          
                     </div>
                 </div>

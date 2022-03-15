@@ -57,11 +57,12 @@ function Contact() {
                     <h1 className="text-center">{capitalizeFirstLetter(currentPage.name)}</h1>
                         <hr className="light my-4" />
                         <h4>
+                            Want to work together?<br></br>
                             Send me a messege for any project ideas, or send me an <a href="mailto:edgar.fernand@outlook.com"> email</a> at: <br></br>
                             <a href="mailto:edgar.fernand@outlook.com"> edgar.fernand@outlook.com</a>
                         </h4>
                         <hr></hr>
-                        <form id="contact-form" onSubmit={handleSubmit} className="mb-5">
+                        {/* <form id="contact-form" onSubmit={handleSubmit} className="mb-5">
                             <div>
                                 <label htmlFor="name">Name:</label>
                                 <input
@@ -103,7 +104,7 @@ function Contact() {
                             <div className="text-center">
                             <button type="submit" className="btn btn-primary btn-xl js-scroll-trigger">Submit</button>
                             </div>
-                        </form>
+                        </form> */}
                     </div>
                 </div>
             </div>

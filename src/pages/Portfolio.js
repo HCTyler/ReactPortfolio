@@ -18,22 +18,41 @@ function Portfolio() {
         },
         {
             name: "codingQuiz",
-            description: "A timed quiz program using javascript",
+            description: "A timed quiz program using JavaScript",
             link: "https://hctyler.github.io/Code-Quiz/",
             repo: "https://github.com/HCTyler/Code-Quiz"
         },
         {
-            name: "gitCooking",
-            description: "A group project using Edamam and Cocktail DB APIs",
+            name: "passwordGenerator",
+            description: "An application that generates random passwords using JavaScript.",
+            link: "https://hctyler.github.io/PasswordGenerator/",
+            repo: "https://github.com/HCTyler/PasswordGenerator"
+        },
+        {
+            name: "weatherApplication",
+            description: "An application that uses a weather API that allows users to search for a city and recieve the current weather.",
             link: "https://nmbeilke.github.io/Git-Cooking/",
             repo: "https://github.com/nmbeilke/Git-Cooking"
         },
         {
-            name: "shadeMarketPlace",
-            description: "A group project with a complete front-end,backend, and database",
-            link: "https://e-commerce-store-w-stripe-2022.herokuapp.com/",
-            repo: "https://github.com/DavisRansom/E-Commerce-Marketplace"
+            name: "NoteTaker",
+            description: "This application uses express.js as the backen to save and retrieve note data from a JSON file.",
+            link: "https://hctyler.github.io/Portfolio/",
+            repo: "https://github.com/HCTyler/Portfolio"
         },
+        {
+            name: "gitCooking",
+            description: "A group project using Edamam and Cocktail DB APIs to create a matching cocktain and recipe pairing.",
+            link: "https://nmbeilke.github.io/Git-Cooking/",
+            repo: "https://github.com/nmbeilke/Git-Cooking"
+        },
+        {
+            name: "WebTheBuilder",
+            description: "A group project using MongoDB, React, Express, Node, and Heroku to create a website.",
+            link: "https://pacific-sands-33682.herokuapp.com/",
+            repo: "https://github.com/HCTyler/Web-the-Builder"
+        },
+
 
     ])
 
