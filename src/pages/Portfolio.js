@@ -11,20 +11,14 @@ function Portfolio() {
     const [currentPage] = useState(pages[0])
     const [projects] = useState([
         {
-            name: "portfolio",
-            description: "My first portfolio using HTML and CSS",
-            link: "https://hctyler.github.io/Portfolio/",
-            repo: "https://github.com/HCTyler/Portfolio"
-        },
-        {
             name: "codingQuiz",
-            description: "A timed quiz program using JavaScript",
+            description: "This application is a timed quiz program that uses Javascript fundamentals that stores highscores using local storage.",
             link: "https://hctyler.github.io/Code-Quiz/",
             repo: "https://github.com/HCTyler/Code-Quiz"
         },
         {
             name: "passwordGenerator",
-            description: "An application that generates random passwords using JavaScript.",
+            description: "This application uses javascript fundamentals to generate a random password with some given optional criterias.",
             link: "https://hctyler.github.io/PasswordGenerator/",
             repo: "https://github.com/HCTyler/PasswordGenerator"
         },
@@ -37,8 +31,8 @@ function Portfolio() {
         {
             name: "NoteTaker",
             description: "This application uses express.js as the backen to save and retrieve note data from a JSON file.",
-            link: "https://hctyler.github.io/Portfolio/",
-            repo: "https://github.com/HCTyler/Portfolio"
+            link: "https://notetakerforbootcamp-app.herokuapp.com/",
+            repo: "https://github.com/HCTyler/NoteTaker"
         },
         {
             name: "gitCooking",
@@ -48,7 +42,7 @@ function Portfolio() {
         },
         {
             name: "WebTheBuilder",
-            description: "A group project using MongoDB, React, Express, Node, and Heroku to create a website.",
+            description: "This is app allows the user to log in, purchase a product and have the product save in a cart. This project uses MongoDB Atlas, React, Express, Node, and Heorku to deploy.",
             link: "https://pacific-sands-33682.herokuapp.com/",
             repo: "https://github.com/HCTyler/Web-the-Builder"
         },

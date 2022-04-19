@@ -50,7 +50,7 @@ function Contact() {
     }
 
     return (
-        <section className="bg-dark">
+        <section className="bg-dark contactpage">
             <div className="container">
                 <div className="row">
                     <div className="col-lg-10 mx-auto text-white mb-4">

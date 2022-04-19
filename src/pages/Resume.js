@@ -10,28 +10,19 @@ function Resume() {
     ])
     const [currentPage] = useState(pages[0])
     return (
-        <section className="bg-dark">
+        <section className="bg-dark contactpage">
             <div className="container">
                 <div className="row">
                     <div className="col-lg-10 mx-auto text-white mb-4">
                         <h1 className="text-center">{capitalizeFirstLetter(currentPage.name)}</h1>
                         <hr className="light my-4" />
-                        <h3>Front-End Language Proficiencies</h3>
+                        <h3>Language and Framework</h3>
                         <ul>
                             <li>HTML</li>
                             <li>CSS</li>
                             <li>JavaScript</li>
                             <li>React</li>
                             <li>Bootstrap</li>
-                            <li>WordPress</li>
-                        </ul>
-                        <h3>Back-End Language Proficiencies</h3>
-                        <ul>
-                            <li>API</li>
-                            <li>Node</li>
-                            <li>Express</li>
-                            <li>MySQL, Sequelize,</li>
-                            <li>MongoDB, Mongoose</li>
                         </ul>
                         <h3>Additional Skill Proficiencies</h3>
                         <ul>

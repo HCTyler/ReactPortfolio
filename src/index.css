@@ -55,7 +55,7 @@ h1 {
 }
 
 section {
-  padding: 3rem 0;
+  padding: 1rem 0;
 }
 
 .section-heading {
@@ -413,4 +413,9 @@ form label:hover {
 }
 .portfolio-box-caption-content i.fab {
   font-size: 2rem;
+}
+
+.contactpage{
+  height: 90vh;
+  padding:5rem
 }
